@@ -1,0 +1,18 @@
+# 核心數據處理庫
+numpy>=1.20.0
+matplotlib>=3.5.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# ROS 相關庫
+rosbag>=1.15.0
+tf>=1.13.0
+tf2_ros>=0.7.0
+
+# 可選的數據處理庫
+pandas>=1.3.0
+scipy>=1.7.0
+
+# 開發工具
+pytest>=6.0.0
+pylint>=2.10.0
